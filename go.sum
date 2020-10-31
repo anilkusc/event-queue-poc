@@ -1,0 +1,4 @@
+github.com/anilkusc/golang-random-string-generator v0.0.0-20201027105559-f7fa1717cdea h1:IZe8HtZuSY46ra55MWboE5MYDnizcR00/FxNC+oMCc8=
+github.com/anilkusc/golang-random-string-generator v0.0.0-20201027105559-f7fa1717cdea/go.mod h1:WFaxIep5WyTaxteKPM762OXP78RVH/czDWEwngGuHhY=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
